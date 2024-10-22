@@ -1,13 +1,6 @@
-fastapi
-uvicorn
-tensorflow
-numpy
-opencv-python
-matplotlib
-pandas
-openpyxl
-python-multipart
-keras
-scikit-learn
 cv
+numpy
+uvicorn
+fastapi
 fastai
+opencv-python
