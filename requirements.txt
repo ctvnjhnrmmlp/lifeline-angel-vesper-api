@@ -3,3 +3,4 @@ uvicorn
 fastapi
 fastai
 opencv-python
+cv2
